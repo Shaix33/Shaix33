@@ -4,4 +4,4 @@
 #### * Currently enrolled in [ALX Africa](https://www.alxafrica.com/) to become a full fledged Software Engineer:green_book:
 #### * I am currently learning C low-level Programming :computer:
 #### * I am looking to collaborate on any projects that can help improve my skill :chart_with_upwards_trend:
-#### * I can be reached via email: [@KevinNdlondlo@gmail.com](mailto:KevinNdlondlo@gmail.com)
+#### * I can be reached via email:incoming_envelope: [@KevinNdlondlo@gmail.com](mailto:KevinNdlondlo@gmail.com)
