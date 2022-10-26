@@ -1,1 +1,1 @@
-### **Hello there-la* :stuck_out_tongue_winking_eye:
+### **Hello there** :stuck_out_tongue_winking_eye:
