@@ -7,4 +7,4 @@
 #### * I can be reached via email:incoming_envelope: [@KevinNdlondlo@gmail.com](mailto:KevinNdlondlo@gmail.com)
 
 
-![Lets_rock](<blockquote class="imgur-embed-pub" lang="en" data-id="a/rysrrAi" data-context="false" ><a href="//imgur.com/a/rysrrAi"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
+![Lets_rock]
