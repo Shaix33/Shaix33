@@ -1,9 +1,5 @@
 # **<ins>Hello there...** :stuck_out_tongue_winking_eye::wave:</ins>
 #### * I'm Themba...:smile:
-## * Connect with me on social media:
-<a href="https://www.instagram.com/el_kevmeister_/>
-<img height="50" src="#"/>
-</a>
 #### * I'm a graduate ICT student from [Sol Plaatje university](https://www.spu.ac.za/):green_book:
 #### * Currently enrolled in [ALX Africa](https://www.alxafrica.com/) to become a full fledged Software Engineer:green_book:
 #### * I am currently learning C low-level Programming :computer:
