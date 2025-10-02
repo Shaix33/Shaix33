@@ -1,4 +1,3 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 ## <ins>Hello there...I'm Themba :smile::stuck_out_tongue_winking_eye::wave:</ins>
 #### * I'm a graduate ICT student from [Sol Plaatje University](https://www.spu.ac.za/):book:
