@@ -1,5 +1,5 @@
 
-## <ins>Hello there...I'm Themba :smile::stuck_out_tongue_winking_eye::wave:</ins>
+## <ins>Hello there...I'm Themba :smile::wave:</ins>
 #### * I'm a graduate ICT student from [Sol Plaatje University](https://www.spu.ac.za/):book:
 #### * I participated in the [ALX Africa](https://www.alxafrica.com/) Software Engineering Program :book:
 #### * I am currently studying towards my Advanced Diploma in ICT at [Sol Plaatje University](https://www.spu.ac.za/):computer:
